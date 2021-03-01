@@ -10,7 +10,7 @@
     "react": "^16.13.1",
     "react-datepicker": "^2.14.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "4.0.3",
     "semantic-ui-css": "^2.4.1",
     "typescript": "^3.8.3"
   },
